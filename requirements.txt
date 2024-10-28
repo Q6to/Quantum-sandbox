@@ -2,3 +2,4 @@ plotly
 numpy
 ipywidgets
 IPython
+scipy
